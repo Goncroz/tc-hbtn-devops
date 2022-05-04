@@ -1,0 +1,62 @@
+O que é DevOps ? Quais beneficios em adotar DevOps nas empresas ?
+DevOps é uma prática da engenharia de software que tem o objetivo de promover uma integração entre o desenvolvimento e a operação de software. 
+O próprio temo "DevOps" é uma contração das palavras development (desenvolvimento) e operations (operações). DevOps defende ciclos de desenvolvimento 
+menores, frequência de implantação aumentada e liberações mais seguras, em alinhamento com os objetivos de negócio.
+
+
+
+Quais são os pilares da cultura DevOps ? O que é CALMS ?
+Comunicação;
+Colaboração;
+Automação;
+Monitoramento;
+
+O CALMS é um acrônimo para 
+Culture (Cultura); 
+Automation (Automação); 
+LeanIT (Metodologia Lean); 
+Measurement (Mensuração); 
+Sharing (Compartilhamento);
+
+
+
+O que faz um Engenheiro DevOps ?
+O engenheiro de DevOps, introduz processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo de vida do 
+desenvolvimento de um software, desde a criação do código e a implantação até as etapas de manutenção e atualização.
+
+
+
+O que é DevSecOps?
+DevSecOps significa pensar em infraestrutura e segurança de aplicativos desde o início do build. Isso também está ligado diretamente a automatizar 
+algumas portas de segurança, evitando que o fluxo de trabalho do DevOps entre em declínio.
+
+DevOps está ligado a desenvolvimento e operações;
+DevSecOps está ligado a desenvolvimento, segurança e operações;
+
+
+
+Principais ferramentas OpenSource para DevOps?
+Gitlab; 
+Puppet; 
+Ansible; 
+Jenkins; 
+Vagrant; 
+oVirt; 
+Docker; 
+Zabbix;
+
+
+
+O que é CI/CD: integração e entrega contínuas ?
+CI/CD designa respectivamente Continuous Integration e Continuous Delivery traduzindo: Integração Contínua e Entrega Contínua.
+Ambas as siglas designam processos e técnicas modernas para tornar o processo de desenvolvimento, teste e entrega de ferramentas mais ágil e eficiente. 
+
+Integração Contínua ou CI, significa uma automação para que todas às vezes que haja uma mudança em código de aplicação, ela seja integrada, testada e implementada.
+E todo esse processo acontecendo em um ambiente compartilhado, com todos os envolvidos no processo. 
+Uma vez que é muito comum que aplicações sejam desenvolvidas por um time não somente por uma pessoa. 
+Dessa forma com o CI, é possível que todas as mudanças sejam realizadas no “mesmo local”, permitindo a integração de mudanças no código de maneira mais rápida.
+Por meio dessa técnica há a diminuição de conflitos e problemas quando diversos projetos acontecem simultaneamente.
+
+Entrega contínua ou CD, por sua vez, reúne a integração contínua e a testagem que podem ser agrupados em contêineres e depois colocado em produção.
+Ou seja, ele ajunta esses códigos e testes realizados, e coloca-os em produção de forma automatizada. 
+Mesmo que necessite da ação humana, ele se torna automatizado ao colocar tudo o que foi feito “no ar” de maneira integrada e completa. 
