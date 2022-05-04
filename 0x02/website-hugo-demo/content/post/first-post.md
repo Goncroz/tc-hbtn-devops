@@ -1,7 +1,8 @@
-title	date	draft
-First Post
-2022-05-03 08:29:57 -0300
-true
+---
+title: "First Post"
+date: 2022-05-03T08:29:57-03:00
+draft: true
+---
 # README for "Awesome Inc." Website
 
    Ain't nobody got time to write documentation: I've put all the HTML and CSS into `public/index.html` on the production server.
